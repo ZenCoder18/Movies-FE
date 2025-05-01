@@ -25,6 +25,7 @@ const Hero = ({movies = []}) => {
                             </Paper>
                         )
                     })
+                    
                 }
             </Carousel>
         </div>
